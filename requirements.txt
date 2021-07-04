@@ -2,4 +2,4 @@ django
 gunicorn
 django-heroku
 whitenoise
-matplotlib
+matplotlib=3.3.3
